@@ -1,0 +1,42 @@
+.news {
+    
+    background-color: #f8f5f2;
+    color: #000000;
+    
+    &__title {
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 700;
+        color: #000000;
+        text-transform: uppercase;
+    }
+
+    &__date {
+        font-size: 16px;
+        line-height: 30px;
+        font-weight: 400;
+        color: #000000;
+    }
+
+    &__date b {
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 700;
+        color: #000000;
+        text-transform: uppercase;
+    }
+
+    &__list {
+        list-style: none;
+        
+        margin: 0;
+        padding: 0;
+    }
+
+    &__text {
+        font-size: 18px;
+        line-height: 27px;
+        font-weight: 400;
+        color: #000000;
+    }
+}
