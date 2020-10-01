@@ -422,12 +422,16 @@ img {
     background-image: url("../img/back-desktop.jpg");
     background-repeat: no-repeat;
     background-position: center -9px;
+    /*@media (min-resolution: $retina-dpi), (min-resolution: $retina-dppx) {
+            background-image: url("img/bg-header@2x.jpg");
+            background-size: 1338px auto;
+        }*/
   }
 
   .page-header__logo-image {
     display: block;
     width: 370px;
-    height: 50px;
+    height: 101px;
     margin: 0 auto;
     margin-top: 40px;
   }
@@ -638,6 +642,7 @@ img {
   }
 
   .page-header__logo-image {
+    height: 153px;
     margin-top: 57px;
   }
 
