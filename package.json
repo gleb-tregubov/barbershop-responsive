@@ -1,5 +1,5 @@
 {
-  "name": "barbershop-lvl-2",
+  "name": "barbershop-responsive",
   "version": "1.0.0",
   "description": "Сборка Gulp",
   "main": "index.html",
@@ -25,5 +25,13 @@
     "gulp-ttf2woff2": "^3.0.0",
     "rename": "^1.0.4",
     "sass": "^1.26.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleb-tregubov/barbershop-responsive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gleb-tregubov/barbershop-responsive/issues"
+  },
+  "homepage": "https://github.com/gleb-tregubov/barbershop-responsive#readme"
 }

@@ -1,3 +1,10 @@
+// function defaultTask(cb) {
+//   // place code for your default task here
+//   cb();
+// }
+
+// exports.default = defaultTask
+
 const fileinclude = require("gulp-file-include");
 
 let project_folder = "dist";
